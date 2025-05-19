@@ -1,0 +1,17 @@
+
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+    color: white;
+    height: 100vh;
+    margin: 0;
+    font-family: cursive;
+}
+canvas{
+    border: 2px solid white;
+    background-color: black;
+}
